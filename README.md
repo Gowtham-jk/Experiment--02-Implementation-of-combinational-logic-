@@ -1,6 +1,6 @@
-Name: Gowtham V
+# Name: Gowtham V
 
-Roll no : 23006362
+# Roll no : 23006362
 
 # Experiment--02-Implementation-of-combinational-logic
 
